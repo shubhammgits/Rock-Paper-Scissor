@@ -1,0 +1,1 @@
+Check out my new project! It is an interactive Tic Tac Toe game. I've developed this project using HTML, CSS, and JavaScript to showcase front-end development skills along with the game logic implementation
