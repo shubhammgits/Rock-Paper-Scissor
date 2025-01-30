@@ -1,1 +1,3 @@
-Check out my new project! It is an interactive Tic Tac Toe game. I've developed this project using HTML, CSS, and JavaScript to showcase front-end development skills along with the game logic implementation
+Check out my new project! <br> 
+It is an interactive Rock Paper Scissor game. <br>
+I've developed this project using HTML, CSS, and JavaScript to showcase front-end development skills along with the game logic implementation
